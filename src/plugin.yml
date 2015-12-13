@@ -1,0 +1,6 @@
+name: LamaWars
+version: 1.0.0
+main: de.Moohsassin.LamaWars.LamaWars
+auhtor: Moohsassin
+commands:
+  stats:
